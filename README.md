@@ -1,1 +1,1 @@
-Lane ANthony Seals - guitar playing
+Lane ANthony Seals - guitar playing - EDUCATIONAL USE ONLY
