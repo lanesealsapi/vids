@@ -7,3 +7,9 @@ print("test")
 www.gemini.com is dope,
 www.guitarmapfree.com is lit!]
 
+---------------------------------
+
+List of O.P. music videos Artists :
+
+["dua Lipsicah",Tate Mcree,Halsey,++]
+
