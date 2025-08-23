@@ -13,7 +13,7 @@ List of O.P. music videos Artists :
 
 ["Dua Lipa",Tate Mcree,Halsey,++]
 
---- not a promo ---
+--- not a promo, but maybe someday ---
 
 www.halsey.com
 
