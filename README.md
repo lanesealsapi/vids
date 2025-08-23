@@ -11,5 +11,5 @@ www.guitarmapfree.com is lit!]
 
 List of O.P. music videos Artists :
 
-["dua Lipsicah",Tate Mcree,Halsey,++]
+["Dua Lipa",Tate Mcree,Halsey,++]
 
