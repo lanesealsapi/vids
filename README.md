@@ -15,3 +15,11 @@ List of O.P. music videos Artists :
 
 www.halsey.com
 
+-----------------------------------
+
+#code
+calicocoin beta edu release
+c_coin = 0.0000000000001
+n =  1trill
+inflation_rate = 4%
+
