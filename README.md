@@ -9,7 +9,7 @@ www.guitarmapfree.com is lit!]
 
 List of O.P. music videos Artists :
 
-["Dua Lipa",Tate Mcree,Halsey,++]
+["Miley, Tate, Billy,++]
 
 --- not a promo, but maybe someday ---
 
