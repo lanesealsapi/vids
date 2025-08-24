@@ -1,4 +1,4 @@
-Lane (swift programming fan) Seals - guitar playing - EDUCATIONAL USE and  EducationalPurposes ONLY - * 
+Lane (swift programming fan) Seals - guitar playing - EDUCATIONAL USE and  Educational Purposes ONLY - * 
 
 print("test")
 #python ANDOR swift is cool
