@@ -9,11 +9,7 @@ www.guitarmapfree.com is lit!]
 
 List of O.P. music videos Artists :
 
-["Miley, Tate, Billy,++]
-
---- not a promo, but maybe someday ---
-
-www.halsey.com
+["Miley, Tate, Billy, em, bb, sh, ++]
 
 -----------------------------------
 
