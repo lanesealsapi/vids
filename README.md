@@ -3,7 +3,7 @@ Lane (swift programming fan) Seals - guitar playing - EDUCATIONAL USE and  Educa
 print("test")
 #python ANDOR swift is cool
 
-www.guitarmapfree.com is lit!]
+[www.guitarmapfree.com is lit!]
 
 ---------------------------------
 
