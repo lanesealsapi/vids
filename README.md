@@ -29,3 +29,20 @@ app.use(express.json());
 app.use(morgan("dev"));
 
 const SECRET = process.env.TOGGLE_API_SECRET || "dev-super-secret";
+
+The foloowing code is licensed under a BSD-style, permissive software license, tbd.
+
+W.I.P.
+...#tog...
+
+happy = TRUE
+smile = TRUE
+
+?happy -> smie
+#evaluates to TRUE
+
+!happy
+#not happy
+
+
+
